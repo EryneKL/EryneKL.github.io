@@ -3,7 +3,7 @@
 La politique de développement de l'Abes nous donne un cadre pour structurer nos développements informatiques. Cette politique est rédigée par les développeur(se)s de l'Abes avec la participation de collègues du service Infrastructures et Réseaux. Elle nous fournit des méthodes et des outils pour améliorer la qualité de nos projets et applications.
 
 ## Sommaire
-  * [Objectifs et moyens](/00-Objectifs%20et%20moyens.md)
+  * [Objectifs et moyens](/00-Objectifs%20et%20moyens.html)
   * [Gestion du code source](/01-Gestion%20du%20code%20source.md)
   * [Intégration continue](/02-Intégration%20continue.md)
   * [Environnements de développement, test et production](/03-Environnements%20de%20développement,%20test%20et%20production.md)
