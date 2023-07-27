@@ -606,7 +606,7 @@ Si l'appli java dépend de `slf4j-log4j12` alors voici comment procéder. Le pri
 <Configuration>
     <Appenders>
         <Console name="STDOUT" target="SYSTEM_OUT">
-            <PatternLayout pattern="%style{ % d{ISO8601}}{black} %highlight { % -5level }[%style { % t}{bright,blue}] %style { % C{1.}}{dark,yellow}: %msg%n%throwable" />
+            <PatternLayout pattern="%style{ %d{ISO8601}}{black} %highlight { %-5level }[%style { %t}{bright,blue}] %style { %C{1.}}{dark,yellow}: %msg%n%throwable" />
         </Console>
     </Appenders>
     <Loggers>
