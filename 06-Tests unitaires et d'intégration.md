@@ -1,4 +1,4 @@
-<i>[Sommaire](/README.html) / Tests unitaires et d'intégration</i>
+<i>[Sommaire](/) / Tests unitaires et d'intégration</i>
 
 # Tests unitaires et d'intégration
 
@@ -37,4 +37,4 @@ Le framework de test unitaire que nous utilisons est jUnit. Il permet de réalis
 Nous préconisons l'écriture de tests pour le code client produit avec le framework VueJs : https://vuejs.org/v2/guide/testing.html#Vue-Test-Utils
 
 
-[Retour au sommaire](/README.html)
+[Retour au sommaire](/)

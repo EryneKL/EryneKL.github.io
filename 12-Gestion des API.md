@@ -1,4 +1,4 @@
-<i>[Sommaire](/README.html) / Gestion des API</i>
+<i>[Sommaire](/) / Gestion des API</i>
 
 # Gestion des API
 
@@ -43,4 +43,4 @@ Le choix d'un unique ou de plusieurs containers Docker pour déployer les API se
 Si on met en oeuvre une architecture Java "traditionnelle", on peut soit déployer l'API dans un seul container, soit avoir un container par API. Dans le cas d'une architecture microservice, on aura un container par service ainsi que pour les éléments du système comme le registry par exemple.
 
 
-[Retour au sommaire](/README.html)
+[Retour au sommaire](/)

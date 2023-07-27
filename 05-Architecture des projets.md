@@ -1,4 +1,4 @@
-<i>[Sommaire](/README.html) / Architecture des projets</i>
+<i>[Sommaire](/) / Architecture des projets</i>
 
 # Architecture des projets
 
@@ -26,7 +26,7 @@ __Les services web sont sécurisés__
 
 __Le versionning des API__
 
-cf. [Gestion des API](12-Gestion%20des%20API.md#versionnage)
+cf. [Gestion des API](/12-Gestion%20des%20API.html#versionnage)
 
 __Cas particulier des applications J2EE / architecture MVC__
 
@@ -241,4 +241,4 @@ Et voici ce que cela donne après la mise en place du cache busting :
 ```
 
 
-[Retour au sommaire](/README.html)
+[Retour au sommaire](/)

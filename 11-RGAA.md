@@ -1,4 +1,4 @@
-<i>[Sommaire](/README.html) / Accessibilité web, RGAA</i>
+<i>[Sommaire](/) / Accessibilité web, RGAA</i>
 
 # Accessibilité Web / RGAA
 
@@ -321,4 +321,4 @@ Plusieurs outils permettent de contrôler que le code de l'application respecte 
 </ul>
 
 
-[Sommaire général](/README.html)
+[Sommaire général](/)

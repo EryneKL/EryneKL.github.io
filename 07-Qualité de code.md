@@ -1,4 +1,4 @@
-<i>[Sommaire](/README.html) / Qualité de code</i>
+<i>[Sommaire](/) / Qualité de code</i>
 
 # Qualité de code
 
@@ -51,4 +51,4 @@ Elles sont détaillées par langage utilisé, par type de problème (performance
 Lors de chaque build réussi, le code est envoyé sur un serveur Sonarqube interne pour nos projets hébergés sur notre Gitlab. Le code disponible sur notre organisation Github est quant à lui envoyé sur Sonarcloud pour une analyse publique.
 
 
-[Retour au sommaire](/README.html)
+[Retour au sommaire](/)

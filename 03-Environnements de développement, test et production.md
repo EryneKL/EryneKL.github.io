@@ -1,4 +1,4 @@
-<i>[Sommaire](/README.html) / Environnements de développement, test et production</i>
+<i>[Sommaire](/) / Environnements de développement, test et production</i>
 
 # Environnements de développement, test et production
 
@@ -38,4 +38,4 @@ Les déploiements sur ces environnements sont automatisés via des jobs Jenkins 
 Les déploiements sur l'environnement de production sont activés par le responsable d’application ou par le SIRE.
 
 
-[Retour au sommaire](/README.html)
+[Retour au sommaire](/)

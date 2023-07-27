@@ -1,4 +1,4 @@
-<i>[Sommaire](/README.html) / Environnement de développent intégré</i>
+<i>[Sommaire](/) / Environnement de développent intégré</i>
 
 # Environnement de développement intégré
 
@@ -30,4 +30,4 @@ Le code VusJs et plus généralement Javascript peut étre édité via Intellij.
 SQL Developer reste l'éditeur favori en ce qui concerne l'édition de code PL/SQL. Le versionning n'est pas contre pas géré via l'éditeur. Pour versionner le code, nous mettons en oeuvre deux solutions suivant les applications : soit un batch récupére les procédures stockées, fonctions etc. et les versionne dans Gitlab réguliérement, soit les codes PL/SQL sont copiés dans un répertoire "sql" de l'application et sont versionnés avec le code de l'application.
 
 
-[Retour au sommaire](/README.html)
+[Retour au sommaire](/)

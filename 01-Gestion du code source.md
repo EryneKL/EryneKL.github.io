@@ -1,4 +1,4 @@
-<i>[Sommaire](/README.html) / Gestion du code source</i>
+<i>[Sommaire](/) / Gestion du code source</i>
 
 # Gestion du code source
 
@@ -151,4 +151,4 @@ Les dépôts Github publiés par l'Abes qui contiennent du code qui dépend de l
 Ainsi les collègues contributeurs externes à l'Abes sont prévenus rapidement et cela leur évite de perdre du temps à essayer de compiler/réutiliser le code.
 
 
-[Retour au sommaire](/README.html)
+[Retour au sommaire](/)

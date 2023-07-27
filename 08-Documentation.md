@@ -1,4 +1,4 @@
-<i>[Sommaire](/README.html) / Documentation</i>
+<i>[Sommaire](/) / Documentation</i>
 
 # Documentation
 
@@ -56,4 +56,4 @@ Pour le Javascript et le PL/SQL, les commentaires sont actuellement inclus dans 
 Pour certaines applications, des tâches de maintenance doivent être réalisées régulièrement (mise à jour de données par exemple). L'exécution de ces tâches peut prendre la forme de lancement de traitements via une interface utilisateur ou via des outils accessibles en lignes de commande. Ces tâches doivent être décrites ainsi que leur mode d'exécution.
 
 
-[Retour au sommaire](/README.html)
+[Retour au sommaire](/)
