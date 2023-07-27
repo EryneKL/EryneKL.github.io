@@ -1,4 +1,4 @@
-<i>[Sommaire](/README.MD) / Intégration continue</i>
+<i>[Sommaire](/README.html) / Intégration continue</i>
 
 # Intégration continue
 
@@ -55,4 +55,4 @@ L'intégration continue facilite les déploiements fréquents, notamment si elle
 La configuration de la plateforme d'intégration continue est réalisée par l'équipe en charge de la plateforme en partenariat avec les développeurs et le service infrastructure de l'Abes. La mise en place d'un workflow open source depuis 2019 engendre des évolutions importantes dont certaines briques restent à traiter comme par exemple la documentation technique d'une application (non ouverte à la date d'octobre 2022).
 
 
-[Retour au sommaire](/README.MD)
+[Retour au sommaire](/README.html)

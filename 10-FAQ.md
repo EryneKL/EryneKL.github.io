@@ -1,4 +1,4 @@
-<i>[Sommaire](/README.MD) / FAQ</i>
+<i>[Sommaire](/README.html) / FAQ</i>
 
 Cette FAQ technique a pour objectif de rassembler des résolutions de problèmes récurrents rencontrés lors de nos activités de développement. 
 
@@ -1002,4 +1002,4 @@ Il suffit ensuite de déclarer la variable SPRING_KAFKA_PRODUCER_BOOTSTRAP_SERVE
 La variable peut être mise dans le .env comme toute autre variable d'environnement. Au déploiements, docker-compose va créer la variable d'environnement SPRING_KAFKA_PRODUCER_BOOTSTRAP_SERVERS et log4j peut y avoir accès directement avec l'instruction env.
 
 
-[Retour au sommaire](/README.MD)
+[Retour au sommaire](/README.html)

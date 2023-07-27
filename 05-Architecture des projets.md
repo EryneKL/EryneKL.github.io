@@ -1,4 +1,4 @@
-<i>[Sommaire](/README.MD) / Architecture des projets</i>
+<i>[Sommaire](/README.html) / Architecture des projets</i>
 
 # Architecture des projets
 
@@ -241,4 +241,4 @@ Et voici ce que cela donne après la mise en place du cache busting :
 ```
 
 
-[Retour au sommaire](/README.MD)
+[Retour au sommaire](/README.html)

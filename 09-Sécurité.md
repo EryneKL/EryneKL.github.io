@@ -1,4 +1,4 @@
-<i>[Sommaire](/README.MD) / Sécurité</i>
+<i>[Sommaire](/README.html) / Sécurité</i>
 
 # Sécurité
 
@@ -97,4 +97,4 @@ Ce code est implémenté dans notre application "Hello World" nommée abes-hello
 https://github.com/abes-esr/abes-hello-back/blob/develop/web/src/main/java/fr/abes/helloabes/HelloABESApplication.java#L168-L187
 
 
-[Retour au sommaire](/README.MD)
+[Retour au sommaire](/README.html)
