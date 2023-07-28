@@ -70,15 +70,15 @@ Si vous avez des correctifs à apporter, n'hésitez pas à faire remonter vos id
 La structure d'une application web est importante. En effet, celle-ci peut être lu par un lecteur d'écran 
 et servir à la navigation. De fait, il est nécessaire d'y porter une attention particulière. 
 En ce sens, il faut définir des zones avec les balises HTML correspondantes 
-(`header`, `main`, `nav`, `footer`, `section`).
+(`HEADER`, `MAIN`, `NAV`, `FOOTER`, `SECTION`).
 Leur présence oblige à veiller à ne pas surcharger le code avec une imbrication d'UI Component et/ou de balises HTML 
-(`<pre><v-container></pre>`, `<code>&lt;div&lt;</code>`, `<section>`, `<v-sheet>`, etc.) qui pourraient être fusionnée
+(`V-CONTAINER`, `DIV`, `SECTION`, `V-SHEET`, etc.) qui pourraient être fusionnée
 en une seule balise HTML ou un seul UI Component VueJs.
 
 La plupart des UI Component VueJs génère un code HTML propre et lisible par les lecteurs d'écran 
-(`<v-btn>`, `<v-img>`, etc.).  
+(`V-BTN`, `V-IMG`, etc.).  
 Néanmoins, certains d'entre eux génèrent des erreurs sur les `aria-label`, `role` ou `id` qu'il n'est,
-pour le moment, pas possible de corriger (`<v-expansion-panel>`, `<v-combobox>`, `<v-radio-group>`, `<v-data-table>`).  
+pour le moment, pas possible de corriger (`V-EXPANSION-PANEL`, `V-COMBOBOX`, `V-RADIO-GROUP`, `V-DATA-TABLE`).  
 D'autres encore, ne génèrent pas d'informations exploitables pour les lecteurs d'écran. Il est donc nécessaire de remédier à ce problème.
 
 Voici listé ci-dessous quelques UI Component VueJs et les méthodes pour améliorer leur accessibilité.
@@ -91,7 +91,7 @@ Voici listé ci-dessous quelques UI Component VueJs et les méthodes pour améli
 
 <ul>
 
-La balise HTML `<img>` et l'UI Component VueJs `<v-img>` possédant toutes les deux un attribut `alt=""`, 
+La balise HTML `<img>` et l'UI Component VueJs `V-IMG` possédant toutes les deux un attribut `alt=""`, 
 la mise en place de description est facilitée.
 
 *Exemple :*
@@ -112,8 +112,8 @@ ou :
 
 <ul>
 
-L'UI Component VueJs `<v-icon>` ne prend pas en compte l'attribut `alt`.<br> 
-De plus, un `<v-icon>` simple (ex : `<v-icon>mdi-home< /v-icon>`) ne permet pas 
+L'UI Component VueJs `V-ICON` ne prend pas en compte l'attribut `alt`.<br> 
+De plus, un `V-ICON` simple (ex : `<v-icon>mdi-home< /v-icon>`) ne permet pas 
 l'utilisation d'un `aria-label`, même si ce dernier est associé à un `role="img"`. 
 Il ne renverra donc aucune information exploitable pour un lecteur de d'écran.<br>
 Pour palier ce problème, une solution existe.<br><br>
