@@ -95,11 +95,11 @@ La balise HTML `<img>` et l'UI Component VueJs `V-IMG` possédant toutes les deu
 la mise en place de description est facilitée.
 
 *Exemple :*
-```HTML
+```
 <img src="/img/logo.svg" alt="logo [nom_de_l_application]">
 ```
 ou :
-```HTML
+```
 <v-img src="/img/logo.svg" alt="logo [nom_de_l_application]">
 ```
 
