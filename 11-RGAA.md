@@ -70,7 +70,7 @@ Si vous avez des correctifs à apporter, n'hésitez pas à faire remonter vos id
 La structure d'une application web est importante. En effet, celle-ci peut être lu par un lecteur d'écran 
 et servir à la navigation. De fait, il est nécessaire d'y porter une attention particulière. 
 En ce sens, il faut définir des zones avec les balises HTML correspondantes 
-(`<header></header>`, `<main></main>`, `<nav></nav>`, `<footer></footer>`, `<section></section>`).
+(`header`, `main`, `nav`, `footer`, `section`).
 Leur présence oblige à veiller à ne pas surcharger le code avec une imbrication d'UI Component et/ou de balises HTML 
 (`<v-container>`, `<div>`, `<section>`, `<v-sheet>`, etc.) qui pourraient être fusionnée
 en une seule balise HTML ou un seul UI Component VueJs.
