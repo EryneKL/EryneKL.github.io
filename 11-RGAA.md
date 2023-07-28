@@ -72,7 +72,7 @@ et servir à la navigation. De fait, il est nécessaire d'y porter une attention
 En ce sens, il faut définir des zones avec les balises HTML correspondantes 
 (`header`, `main`, `nav`, `footer`, `section`).
 Leur présence oblige à veiller à ne pas surcharger le code avec une imbrication d'UI Component et/ou de balises HTML 
-(`<v-container>`, `<div>`, `<section>`, `<v-sheet>`, etc.) qui pourraient être fusionnée
+(`<pre><v-container></pre>`, `<code><div></code>`, `<section>`, `<v-sheet>`, etc.) qui pourraient être fusionnée
 en une seule balise HTML ou un seul UI Component VueJs.
 
 La plupart des UI Component VueJs génère un code HTML propre et lisible par les lecteurs d'écran 
